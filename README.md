@@ -1,22 +1,22 @@
 Copyright 2017 - The LineageOS Project
 
-Device configuration for Huawei Y635.
+Device configuration for Bluboo D2
 =====================================
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | Quad-core 1.2 GHz ARM® Cortex™ A53
-CHIPSET | Qualcomm MSM8916 Snapdragon 410
-GPU     | Adreno 306
+CPU     | Quad-Core 1.3GHz ARM Cortex-A7
+CHIPSET | MediaTek MT6580A
+GPU     | ARM Mali-400 MP2
 Memory  | 1 GB
-Shipped Android Version | 4.4.4
+Shipped Android Version | 6.0.1
 Storage | 8 GB
-MicroSD | Up to 32 GB
-Battery | 2000 mAh
-Dimensions | 144 x 72.9 x 10.2 mm
-Display | 480 x 854 pixels, 5.0"
+MicroSD | Up to 128GB
+Battery | 3,300 mAh
+Dimensions | 70.0 mm x 150.0 mm x 9 mm
+Display | 1280x720 Pixels, 5.2"
 Rear Camera  | 5.0 MP LED flash
-Front Camera | 2.0 MP
-Release Date | March 2015
+Front Camera | 3.0 MP
+Release Date | 08 December, 2017
 
-![Huawei Y635](http://cdn2.gsmarena.com/vv/pics/huawei/huawei-y635-2.jpg "Huawei Y635")
+![Bluboo D2](https://www.gizmochina.com/wp-content/uploads/2018/02/Bluboo-D2-600x600.jpg "Bluboo D2"
