@@ -15,8 +15,8 @@ MicroSD | Up to 128GB
 Battery | 3,300 mAh
 Dimensions | 70.0 mm x 150.0 mm x 9 mm
 Display | 1280x720 Pixels, 5.2"
-Rear Camera  | 5.0 MP LED flash
-Front Camera | 3.0 MP
+Rear Camera  | 5.0 MP + 3.0 MP LED flash
+Front Camera | 5.0 MP
 Release Date | 08 December, 2017
 
 ![Huawei Y635](https://www.gizmochina.com/wp-content/uploads/2018/02/Bluboo-D2-600x600.jpg "Huawei Y635")
