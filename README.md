@@ -19,4 +19,4 @@ Rear Camera  | 5.0 MP LED flash
 Front Camera | 3.0 MP
 Release Date | 08 December, 2017
 
-![Bluboo D2](https://www.gizmochina.com/wp-content/uploads/2018/02/Bluboo-D2-600x600.jpg "Bluboo D2"
+![Huawei Y635](https://www.gizmochina.com/wp-content/uploads/2018/02/Bluboo-D2-600x600.jpg "Huawei Y635")
