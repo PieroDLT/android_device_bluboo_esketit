@@ -1,2 +1,2 @@
 # android_device_bluboo_esketit
-Device Tree For Bluboo D2
+Copyright 2017 - The LineageOS Project
